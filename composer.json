@@ -1,5 +1,5 @@
 {
-  "name": "cc-gouthamkishore/analytics",
+  "name": "cc-gouthamkishore/test-magento2-plugin",
   "description": "Magento 2 plugin to integrate convertcart",
   "type": "magento2-module",
   "version": "1.0.0",
